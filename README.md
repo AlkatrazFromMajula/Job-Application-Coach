@@ -1,7 +1,5 @@
 # Job Application Coach
-In this project I have started by gaining hands-on experience with Gradio, unlocking the potential of watsonx.ai's large language model, learning how to harness its power for real-world applications. By the end of this project, you've been adept at developing three specialized tools: an AI-driven resume enhancer, a personalized cover letter generator, and a strategic job hunting advisor.
-
-"AI Career Coach" consists of three core components:
+In this project I have started by gaining hands-on experience with Gradio, unlocking the potential of watsonx.ai's large language model, learning how to harness its power for real-world applications. "AI Career Coach" consists of three core components:
   - a resume enhancement tool
   - a personalized cover letter generator
   - a career advice application
@@ -18,4 +16,5 @@ An AI application that drafts customized cover letters, enhancing job applicatio
 
 # Career Advice Application 
 An innovative tool that offers personalized job hunting and career improvement advice based on AI analysis of resumes and job descriptions.
-![Uploading career advisor.gif…]()
+![career advisor](https://github.com/AlkatrazFromMajula/Job-Application-Coach/assets/61757792/a180fbb4-d3be-4eca-84c7-38365c0d1b71)
+
